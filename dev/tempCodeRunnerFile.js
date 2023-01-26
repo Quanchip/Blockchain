@@ -1,0 +1,1 @@
+console.log(bitcoin.createNewblock(100, '001', '002'));
